@@ -1,7 +1,7 @@
 # YouTube Video Upload & Transcoding Flow In-Memory Simulation (Go)
 
 Hello
-Its my first prototype (definitely will try more of these out)
+Its my first time trying things out in Go (definitely will try more of these out)
 This project is a fun prototype where I tried to simulate how YouTube might handle video uploads, chunking, transcoding, and manifest generation
 
 ## What it Does
